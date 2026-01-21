@@ -67,11 +67,30 @@ Performed the following steps:
 
 ## 📷 Dashboard Preview
 
-### Power BI Dashboard
-![Power BI Dashboard](./Blinkit_Data_Analysis_Screenshot1.png)
-
 ### Excel Dashboard
-![Excel Dashboard](./Blinkit_Data_Analysis_Screenshot2.png)
+![Excel Dashboard](./Blinkit_Excel_Dashboard.png)
 
+### Power BI Dashboard
+![Power BI Dashboard](./Blinkit_PowerBI_Dashboard.png)
 
 ## 📂 Project Structure
+
+```bash
+Blinkit-Data-Analysis/
+│
+├── Dataset/        # Raw dataset files
+├── Dashboard/      # Excel (.xlsx ) file and Power BI (.pbix) file
+├── Images/         # Dashboard images/screenshots
+└── README.md       # Project documentation
+
+## ✅ Conclusion
+This Blinkit dashboard provides a clear view of sales performance and highlights improvement areas using data-driven insights.  
+It can help businesses make better decisions on product strategy, outlet growth, and customer satisfaction.
+
+---
+
+## 🙋‍♀️ Author
+**Shital Dubule**  
+📌 Aspiring Data Analyst | Power BI | Python | SQL  
+
+If you like this project ⭐ don’t forget to star the repo!
